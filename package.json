@@ -1,5 +1,5 @@
 {
-  "name": "esbuild-plugin-glslify",
+  "name": "@wearepinkyellow/esbuild-plugin-glslify",
   "version": "1.0.3",
   "description": "Import GLSL strings with glslify - based on https://github.com/glslify/rollup-plugin-glslify ",
   "main": "plugin/mod.js",
